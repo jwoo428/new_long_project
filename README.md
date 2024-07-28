@@ -1,2 +1,2 @@
 # new_long_project
-for
+Day 1 - 어떻게 작동하는가?
